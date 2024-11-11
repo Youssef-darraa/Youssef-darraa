@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Youssef-darraa
-- 👀 I'm interested in building Laravel applications
+- 👀 I'm interested in building Laravel Apps
 - 🌱 I’m currently learning Laravel
 
 - Thanks
